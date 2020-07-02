@@ -46,7 +46,7 @@ section{
     background-image: url(images/latest-work-bg.png);
     background-repeat: no-repeat;
     border: 1px;
-    background-position: left;
+    background-position: right;
     padding: 7%;
 }
 .latest-work img{
