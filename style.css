@@ -60,3 +60,19 @@ section{
     background-image: url(images/footer-bg.png);
     background-image: no-repeat;    
 }
+#review{
+    padding: 50px;
+}
+.contact {
+    color: white;
+    background-image: linear-gradient(45deg, #f08ab3, #f5295f);
+    padding: 15px 20px;
+    border-radius: 10px;
+    height: 85px;
+    width: 40%;
+    margin: auto;
+}
+.footer{
+    font-size: 12px;
+    text-align: center;
+}
