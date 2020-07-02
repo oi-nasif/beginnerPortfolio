@@ -63,12 +63,18 @@ section{
 #review{
     padding: 50px;
 }
+.review-section{
+    height: 100px;
+    width: 40%;
+    padding: 15px 20px;
+    margin: auto;
+}
 .contact {
     color: white;
     background-image: linear-gradient(45deg, #f08ab3, #f5295f);
     padding: 15px 20px;
     border-radius: 10px;
-    height: 85px;
+    height: 75px;
     width: 40%;
     margin: auto;
 }
