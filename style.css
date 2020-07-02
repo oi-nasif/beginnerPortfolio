@@ -1,0 +1,62 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    margin: none;
+}
+h1{
+    font-size: 40px;
+}
+.name-highlight{
+    color: rgb(241, 82, 109);
+    font-size: 50px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 60%; 
+}
+.top-section{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    border: 1px;
+    background-position: left;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(65deg, rgb(224, 17, 86), rgb(243, 112, 4));
+    padding: 10px 15px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+section{
+    height: 500px;
+}
+.biography{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    border: 1px;
+    background-position: left;
+}
+.latest-work{
+    text-align: center;
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    border: 1px;
+    background-position: left;
+    padding: 7%;
+}
+.latest-work img{
+    width: 31%;
+    float: left;
+    margin: 1%;
+    padding: 0%; 
+}
+.open-review{
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+    background-image: no-repeat;    
+}
